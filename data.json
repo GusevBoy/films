@@ -1,0 +1,170 @@
+{
+    "films": {
+        "youngPope": {
+            "title": "The Young Pope",
+            "description": "The beginning of the pontificate of Lenny Belardo, alias Pius XIII, the first American Pope in history.",
+            "image": "/images/youngPope.jpg"
+        },
+        "twinPeaks": {
+            "title": "Twin Peaks",
+            "description": "An idiosyncratic FBI agent investigates the murder of a young woman in the even more idiosyncratic town of Twin Peaks.\n",
+            "image": "/images/TwinPeaks.jpg"
+        },
+        "uncutGems": {
+            "title": "Uncut Gems",
+            "description": "With his debts mounting and angry collectors closing in, a fast-talking New York City jeweler risks everything in hope of staying afloat and alive.\n",
+            "image": "/images/UncutGems.jpg"
+        },
+        "apocalypseNow": {
+            "title": "Apocalypse Now",
+            "description": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+            "image": "/images/ApocalypseNow.jpg"
+        },
+        "bladeRunner": {
+            "title": "Blade Runner 2049",
+            "description": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+            "image": "/images/BladeRunner.jpg"
+        },
+        "chevalier": {
+            "title": "Hotel Chevalier",
+            "description": "A prologue of one heart-breaking history of love and the prologue of the travel told in",
+            "image": "/images/chevalier.jpg"
+        },
+        "climax": {
+            "title": "Climax",
+            "description": "French dancers gather in a remote, empty school building to rehearse on a wintry night. The all-night celebration morphs into a hallucinatory nightmare when they learn their sangria is laced with LSD.",
+            "image": "/images/climax.jpg"
+        },
+        "drive": {
+            "title": "Drive",
+            "description": "A mysterious Hollywood stuntman and mechanic moonlights as a getaway driver and finds himself in trouble when he helps out his neighbor in this action drama.",
+            "image": "/images/Drive.jpg"
+        },
+        "elTopo": {
+            "title": "El Topo",
+            "description": "A mysterious black-clad gunfighter wanders a mystical Western landscape encountering multiple bizarre characters.",
+            "image": "/images/elTopo.jpg"
+        },
+        "eva": {
+            "title": "Evangelion",
+            "description": "A teenage boy finds himself recruited as a member of an elite team of pilots by his father.",
+            "image": "/images/eva.jpg"
+        },
+        "fargo": {
+            "title": "Fargo",
+            "description": "Various chronicles of deception, intrigue and murder in and around frozen Minnesota. Yet all of these tales mysteriously lead back one way or another to Fargo, North Dakota.",
+            "image": "/images/FARGO.jpg"
+        },
+        "favourite": {
+            "title": "Favourite",
+            "description": "In early 18th century England, a frail Queen Anne occupies the throne and her close friend, Lady Sarah, governs the country in her stead. When a new servant, Abigail, arrives, her charm endears her to Sarah.",
+            "image": "/images/Favourite.jpg"
+        },
+        "fightClub": {
+            "title": "FightClub",
+            "description": "FightClub Bang Bange",
+            "image": "/images/FightClub.jpg"
+        },
+        "ghostInShell": {
+            "title": "Ghost In Shell",
+            "description": "A cyborg policewoman and her partner hunt a mysterious and powerful hacker called the Puppet Master.",
+            "image": "/images/GhostInShell.jpg"
+        },
+        "hollywood": {
+            "title": "Once Upon a Time... in Hollywood",
+            "description": "A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood's Golden Age in 1969 Los Angeles.",
+            "image": "/images/hollywood.png"
+        },
+        "killBill": {
+            "title": "Kill Bill",
+            "description": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+            "image": "/images/KillBill.jpg"
+        },
+        "lighouse": {
+            "title": "Lighouse",
+            "description": "Two lighthouse keepers try to maintain their sanity whilst living on a remote and mysterious New England island in the 1890s.",
+            "image": "/images/lighouse.jpg"
+        },
+        "miror": {
+            "title": "Zerkalo",
+            "description": "A dying man in his forties remembers his past. His childhood, his mother, the war, personal moments and things that tell of the recent history of all the Russian nation.\n",
+            "image": "/images/miror.jpg"
+        },
+        "mononoke": {
+            "title": "Mononoke-hime",
+            "description": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.\n",
+            "image": "/images/Mononoke.jpg"
+        },
+        "neobrotimost": {
+            "title": "Irréversible",
+            "description": "Events over the course of one traumatic night in Paris unfold in reverse-chronological order as the beautiful Alex is brutally raped and beaten by a stranger in the underpass.\n",
+            "image": "/images/Neobrotimost.jpg"
+        },
+        "nymp": {
+            "title": "Nymphomaniac",
+            "description": "A self-diagnosed nymphomaniac recounts her erotic experiences to the man who saved her after a beating.\n",
+            "image": "/images/Nymp.jpg"
+        },
+        "paterson": {
+            "title": "Paterson",
+            "description": "A quiet observation of the triumphs and defeats of daily life, along with the poetry evident in its smallest details.\n",
+            "image": "/images/Paterson.jpg"
+        },
+        "psycho": {
+            "title": "Psycho",
+            "description": "A Phoenix secretary embezzles forty thousand dollars from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.\n",
+            "image": "/images/Psycho.jpg"
+        },
+        "pulpFiction": {
+            "title": "Pulp Fiction",
+            "description": "Bang Bang",
+            "image": "/images/PulpFiction.jpg"
+        },
+        "scottPiligrim": {
+            "title": "Scott Pilgrim vs. the World",
+            "description": "Scott Pilgrim must defeat his new girlfriend's seven evil exes in order to win her heart.\n",
+            "image": "/images/ScottPiligrim.jpg"
+        },
+        "seventhSeal": {
+            "title": "Seventh Seal",
+            "description": "A man seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.\n",
+            "image": "/images/SeventhSeal.jpg"
+        },
+        "snatch": {
+            "title": "Snatch",
+            "description": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.\n",
+            "image": "/images/Snatch.png"
+        },
+        "starIsBorn": {
+            "title": "A Star Is Born",
+            "description": "A musician helps a young singer find fame as age and alcoholism send his own career into a downward spiral.\n",
+            "image": "/images/StarIsBorn.png"
+        },
+        "suspria": {
+            "title": "Suspria",
+            "description": "A darkness swirls at the center of a world-renowned dance company, one that will engulf the artistic director, an ambitious young dancer, and a grieving psychotherapist. Some will succumb to the nightmare. Others will finally wake up.\n",
+            "image": "/images/Suspria.jpg"
+        },
+        "taxiDriver": {
+            "title": "Taxi Driver",
+            "description": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action by attempting to liberate a presidential campaign worker and an underage prostitute.\n",
+            "image": "/images/TaxiDriver.jpg"
+        },
+        "americanHistory": {
+            "title": "American History X",
+            "description": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+            "image": "/images/AmericanHistory.jpg"
+        },
+        "trueGrit": {
+            "title": "True Grit",
+            "description": "A stubborn teenager enlists the help of a tough U.S. Marshal to track down her father's murderer.\n",
+            "image": "/images/trueCrit.jpg"
+        },
+        "witch": {
+            "title": "Witch",
+            "description": "A family in 1630s New England is torn apart by the forces of witchcraft, black magic, and possession.\n",
+            "image": "/images/witch.jpg"
+        }
+    }
+}
+
