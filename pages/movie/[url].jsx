@@ -34,8 +34,6 @@ const ButtonRight = styled(ButtonLeft)`
 
 const PosterPage = ({}) => {
     const { query: { url } } = useRouter();
-    console.log(url);
-    console.log(films[url]);
     const keysFilms = Object.keys(films);
     const index = keysFilms.indexOf(url);
     return (
