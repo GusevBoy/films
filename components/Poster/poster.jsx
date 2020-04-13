@@ -22,7 +22,12 @@ const Image = styled.img`
 const Poster = ({ title, description, image}) => {
     return (
         <Wrap>
-            <Image src={image} width='100%' height='100%'/>
+            <Image
+                alt={title}
+                src={image}
+                width='100%'
+                height='100%'
+            />
             <h2>{title}</h2>
             <p>{description}</p>
         </Wrap>
